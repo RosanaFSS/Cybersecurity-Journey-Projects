@@ -1,1 +1,1 @@
-<h1>Cybersecurity Projects</h1>
+<h1>Microsoft Sentinel - Cybersecurity Projects</h1>
