@@ -1,1 +1,1 @@
-<h1>Cybersecurity Projects</h1>
+<h1>HashMyFiles - Cybersecurity Projects</h1>
